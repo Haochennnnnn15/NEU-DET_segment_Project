@@ -1,0 +1,5 @@
+train: data path
+val: data path
+
+nc: 1  # Number of categories
+names: ['inclusion']  # Category name
