@@ -59,3 +59,5 @@ Below are some visual results of the segmentation:
 ![1724612165305](image/readme/1724612165305.png)
 
 ![1724612322597](image/readme/1724612322597.jpg)
+
+I thank [hruday kumar kolla](https://github.com/hrudaykolla) for his support and advice.
