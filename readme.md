@@ -19,7 +19,7 @@ The NEU-DET dataset contains various defect types, but this project focuses sole
 All annotations for the `train` and `val` sets were generated using the SAM2 model in AnyLabeling for semi-automatic segmentation. The annotations are saved in YOLOv8-compatible format, with corresponding JSON and label files.
 
 ### Dataset Structure
-
+```
 NEU-DET_seg_data/
 │
 ├── train/
@@ -35,7 +35,7 @@ NEU-DET_seg_data/
 └── test/
 ├── images/
 └── labels/
-
+```
 
 ## Conclusion
 
